@@ -15,7 +15,8 @@ main {
 }
 
 h1,
-h2 {
+h2,
+h3 {
   margin: 0;
   font-family: Helvetica, Arial, Sans-Serif;
 }
@@ -34,7 +35,7 @@ h2 {
 .column {
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  gap: 20px;
 }
 .my-photo {
   width: 300px;
